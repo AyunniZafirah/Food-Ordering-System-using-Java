@@ -1,56 +1,52 @@
-Inside Out Food Ordering System
-📌 Project Overview
+# 🍽️ Inside Out Food Ordering System
 
-The Inside Out Food Ordering System is a food ordering application designed to simplify the process of managing clients and their orders.
-It provides a user-friendly interface for both customers and restaurants, supporting client registration, order management, search functionalities, and record editing or deletion.
+### 📚 Project Overview
+The **Inside Out Food Ordering System** is a food ordering application designed to simplify how clients and restaurants manage orders.  
+It provides an intuitive, user-friendly interface for customers and restaurants — enabling client registration, order management, searching, and record editing or deletion.
 
-This project was developed as part of the SKIP2013 Advanced Programming course at Universiti Utara Malaysia.
+> 🏫 Developed as part of the **SKIP2013 Advanced Programming** course at **Universiti Utara Malaysia (UUM)**.
 
-✨ Features
-Client Management
+---
 
-Register and display customers
+## ✨ Features
 
-Register and display restaurants
+### 👥 Client Management
+- Register and display **customers**
+- Register and display **restaurants**
+- **Edit** and **delete** client details
 
-Edit and delete client details
+### 🍱 Order Management
+- Add new **customer orders**
+- **Automatic total calculation**
+- **Confirmation** and **error handling** pop-ups
 
-Order Management
+### 🔍 Search Functionality
+- Search clients (customers or restaurants) by **ID**
+- Display **order details** and **payment summaries**
 
-Add new customer orders
+### 🖥️ User-Friendly UI
+- Pop-up **confirmation** and **error** messages  
+- **Sorting options** for client lists  
+- Clean and intuitive **navigation interface**
 
-Automatic total calculation
+---
 
-Confirmation and error handling
+## 🧭 System Interfaces
 
-Search Functionality
+| Page | Description |
+|------|--------------|
+| 🏠 **Home Page** | Main navigation (Register, Add Order, Search, Exit) |
+| 👤 **Customer Registration** | Register, edit, display, and delete customers |
+| 🍴 **Restaurant Registration** | Register, edit, display, and delete restaurants |
+| 🧾 **Order Page** | Add new orders and calculate totals |
+| 🔎 **Search Page** | Find customer/restaurant information |
 
-Search clients (customers or restaurants) by ID
+---
 
-Display order details and payment summary
+## 🛠️ Tech Stack
 
-User-Friendly UI
-
-Pop-up confirmation and error messages
-
-Sorting options for client lists
-
-🖼️ System Interfaces
-
-Home Page – main navigation (Register, Add Order, Search, Exit)
-
-Customer Registration Page – register, edit, display, delete customers
-
-Restaurant Registration Page – register, edit, display, delete restaurants
-
-Order Page – add new orders and calculate totals
-
-Search Page – find customer/restaurant information
-
-🛠️ Tech Stack
-
-Programming Language: Java
-
-Database: MySQL (via JDBC)
-
-IDE: NetBeans
+| Component | Technology |
+|------------|-------------|
+| 💻 **Programming Language** | Java |
+| 🗄️ **Database** | MySQL (via JDBC) |
+| 🧰 **IDE** | NetBeans |
