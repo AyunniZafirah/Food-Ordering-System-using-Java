@@ -1,13 +1,12 @@
 Inside Out Food Ordering System
-
 📌 Project Overview
 
-The Inside Out Food Ordering System is a food ordering application designed to simplify the process of managing clients and their orders. It provides a user-friendly interface for both customers and restaurants, supporting client registration, order management, search functionalities, and record editing or deletion.
+The Inside Out Food Ordering System is a food ordering application designed to simplify the process of managing clients and their orders.
+It provides a user-friendly interface for both customers and restaurants, supporting client registration, order management, search functionalities, and record editing or deletion.
 
 This project was developed as part of the SKIP2013 Advanced Programming course at Universiti Utara Malaysia.
 
 ✨ Features
-
 Client Management
 
 Register and display customers
